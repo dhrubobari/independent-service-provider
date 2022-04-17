@@ -1,15 +1,32 @@
 .service-list {
-    border: 1px solid lightgrey;
-    width: 330px;
+    border: 1px solid silver;
+    border-radius: 10px;
+    width: 319px;
     padding: 1px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
+    margin-left: 17px;
 }
 
 .info {
     margin-top: 15px;
 }
 
+.button {
+    background-color: #dba514;
+    color: white;
+    width: 215px;
+    border: 0;
+    padding: 8px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.button:hover{
+    background-color: orange;
+}
+
 .service-list img{
-    width: 330px;
+    width: 315px;
     height: 220px;
+    border-radius: 10px;
 }
