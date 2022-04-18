@@ -1,3 +1,9 @@
+# • I made a website for an individual accountant
+# • The Website's name is Adonis and Associates
+# • I used bootstrap for this project
+# • Sorry for the optinal tasks I haven't much time to do.
+# • Here's the live site: https://transcendent-llama-da3b47.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
