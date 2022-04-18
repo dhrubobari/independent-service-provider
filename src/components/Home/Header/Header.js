@@ -9,6 +9,9 @@ const Header = () => {
         <Navbar.Brand as={Link} to="/">Adonis and Associates</Navbar.Brand>
       </Container>
       <Nav>
+        <Nav.Link as={Link} to="checkout">
+          Checkout
+        </Nav.Link>
         <Nav.Link as={Link} to="about">
           About
         </Nav.Link>
